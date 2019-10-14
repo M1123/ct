@@ -1,0 +1,23 @@
+{
+  "name": "ct",
+  "version": "1.0.0",
+  "description": "count",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/M1123/ct.git"
+  },
+  "keywords": [
+    "excel",
+    "js"
+  ],
+  "author": "M1123",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/M1123/ct/issues"
+  },
+  "homepage": "https://github.com/M1123/ct#readme"
+}
